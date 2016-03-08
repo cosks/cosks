@@ -1,0 +1,28 @@
+body {
+	background-color:rgb(127,255,212);
+	position:relative; 
+	color:rgb(106,90,205);
+	font-size:200%; 
+	font-family:'Lucida Console';
+}
+.container {
+      width: 100%;
+      margin:0 auto;
+      max-width:1140px;
+}
+header {
+      width: 100%;
+      margin:0px auto;
+}
+h1 {
+      text-align: center;
+      color:#fff;
+      font: 95px/1 "Impact";
+      text-transform: uppercase;
+      display: block;
+      margin: 5% auto 5%;
+}
+img:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
